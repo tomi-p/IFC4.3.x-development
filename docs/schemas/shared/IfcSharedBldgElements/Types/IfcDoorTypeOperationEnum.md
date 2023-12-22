@@ -130,7 +130,7 @@ Door with two panels, one is folding to the left, the other is folding to the ri
 ![double folding](../../../../figures/ifcdoortypeenum-fig14b.gif)
 
 ### REVOLVING
-An entrance door consisting of four leaves set in a form of a cross and revolving around a central vertical axis (the four panels are described by a single _IfcDoor_ panel property).
+A door with leaves revolving around a vertical central axis (panels are described by a single _IfcDoor_ panel property).
 
 ![revolving](../../../../figures/ifcdoortypeenum-fig15.gif)
 
